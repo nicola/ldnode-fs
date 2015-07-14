@@ -1,0 +1,29 @@
+{
+  "name": "ldnode-fs",
+  "version": "0.1.0",
+  "description": "Run the Linked Data Platform over filesystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola/ldnode-fs.git"
+  },
+  "keywords": [
+    "ldnode",
+    "linked",
+    "data",
+    "linkeddata",
+    "filesystem",
+    "ldp",
+    "decentralized",
+    "web"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicola/ldnode-fs/issues"
+  },
+  "homepage": "https://github.com/nicola/ldnode-fs"
+}
